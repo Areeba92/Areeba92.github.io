@@ -1,0 +1,4 @@
+git clone https://github.com/Areeba92/Emotion-recognition-.git
+git add .
+git commit -m "Add website files"
+git push
